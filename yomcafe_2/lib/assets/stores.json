@@ -1,0 +1,8 @@
+{
+  "items": [
+    {"name": "욤 카페두정점", "address": "충청남도 천안시 서북구 성정두정로 70", "latitude":  "36.831948", "longtitude":  "127.142178", "image": "lib/assets/franchisee/fran_1.png", "number":  "010-6500-2731"},
+    {"name": "욤 카페영통점", "address": "경기 수원시 영통구 매영로345번길 7", "latitude":  "37.2527318", "longtitude":  "127.0708889", "image": "lib/assets/franchisee/fran_2.png", "number":  "031-204-5505"},
+    {"name": "욤 동탄역점", "address": "경기도 화성시 오산동 984", "latitude":  "37.1968508", "longtitude":  "127.0892661", "image": "lib/assets/franchisee/fran_3.png", "number":  "031-374-0502"},
+    {"name": "욤 오산궐동점", "address": "경기도 오산시 궐동 672-2", "latitude":  "37.1600166", "longtitude":  "127.0554352", "image": "lib/assets/franchisee/fran_4.png", "number":  "070-4066-4828"}
+  ]
+}
